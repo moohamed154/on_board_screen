@@ -1,16 +1,17 @@
-# Animated Onboard Screen
+# Onboard Screen
 
-A new Flutter project.
+An animated onboarding screen flow built with Flutter.
+
+A multi-page onboarding experience with page transitions and Material 3
+styling - the intro flow a user sees on first launch.
+
+## Tech Stack
+
+Flutter - Dart - Material 3 - PageView animations
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
